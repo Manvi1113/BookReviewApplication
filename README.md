@@ -1,1 +1,1 @@
-# BookReviewApplication
+# coding-project-template
